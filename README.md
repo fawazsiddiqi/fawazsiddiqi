@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fawazsiddiqi" alt="fawazsiddiqi" /> </p>
 
+- 👯 I’m looking to collaborate on **new projects**
+
+- 🤝 I’m looking for help with **learning something new!**
+
 - 👨‍💻 All of my projects are available at [https://github.com/fawazsiddiqi](https://github.com/fawazsiddiqi)
 
 - 📝 I regulary write articles on [https://medium.com/@fawazsiddiqi](https://medium.com/@fawazsiddiqi)
