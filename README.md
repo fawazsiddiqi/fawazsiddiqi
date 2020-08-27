@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **All your development based questions, I AM FULL STACK! 😁**
 
-- 📫 How to reach me **twitter.com/fawaz_siddiqi**
+- 📫 How to reach me [https://twitter.com/fawaz_siddiqi](https://twitter.com/fawaz_siddiqi)
 
 - ⚡ Fun fact **I am a night owl**
 
