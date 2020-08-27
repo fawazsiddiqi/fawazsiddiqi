@@ -11,7 +11,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@fawazsiddiqi](https://medium.com/@fawazsiddiqi)
 
-- 💬 Ask me about **All your development based questions, I AM FULL STACK! 😁**
+- 💬 Ask me about **all your development based questions, I AM FULL STACK! 😁**
 
 - 📫 How to reach me [https://twitter.com/fawaz_siddiqi](https://twitter.com/fawaz_siddiqi)
 
