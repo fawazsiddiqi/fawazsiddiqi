@@ -22,9 +22,9 @@
   <img align="left" src="https://github-readme-stats.fawazsiddiqi.vercel.app/api/?username=fawazsiddiqi&layout=compact&card_width=250&hide_border=true&theme=graywhite&hide_title=true&include_all_commits=true" /
 </a>
 
-<div>
+<a href="https://github.com/fawazsiddiqi">  
   <h2>Most used languages across my projects:</h2>
 {{ LANGUAGE_TEMPLATE_START:max=20 }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
-</div>
+</a>
