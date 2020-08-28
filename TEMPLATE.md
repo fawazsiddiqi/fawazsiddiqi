@@ -1,7 +1,7 @@
-<h1 align="center">Hey there 👋, I'm Fawaz</h1> 
+<h1 align="center">Hey there 👋, I'm Fawaz</h1>
 <h3 align="center">I am a Developer Advocate @ IBM 👁🐝M and a Masters student @ UOW/UOWD 👨‍💻</h3>
 
-![](https://komarev.com/ghpvc/?username=fawazsiddiqi&style=flat-square&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=fawazsiddiqi&style=flat-square&color=E23237)
 
 ### About Me 💁🏻
 
