@@ -42,10 +42,8 @@
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/CouchDB-informational?style=flat-square&logo&logoColor=white&color=1F305F)
 
-
-<a href="https://github.com/fawazsiddiqi">  
-  <img align="left" src="https://github-readme-stats.fawazsiddiqi.vercel.app/api/?username=fawazsiddiqi&layout=compact&card_width=250&hide_border=true&theme=graywhite&hide_title=true&include_all_commits=true" /
-</a>
+### My GitHub Statistics
+![](https://github-readme-stats.fawazsiddiqi.vercel.app/api/?username=fawazsiddiqi&layout=compact&card_width=250&hide_border=true&theme=graywhite&hide_title=true&include_all_commits=true)
 
 <a>Most used languages across my projects:
 {{ LANGUAGE_TEMPLATE_START:max=20 }}
