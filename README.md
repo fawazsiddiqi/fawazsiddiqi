@@ -47,7 +47,7 @@
 ![](https://img.shields.io/badge/CouchDB-informational?style=flat-square&logo&logoColor=white&color=1F305F)
 
 ### My GitHub Statistics 📈
-![](https://github-readme-stats.fawazsiddiqi.vercel.app/api/?username=fawazsiddiqi&layout=compact&card_width=250&hide_border=true&theme=graywhite&hide_title=true&include_all_commits=true)
+![](https://github-readme-stats.fawazsiddiqi.vercel.app/api/?username=fawazsiddiqi&layout=compact&card_width=250&hide_border=true&theme=vue&hide_title=true&include_all_commits=true)
 
 ### Languages you can find across my GitHub 👾
 ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B189.2%25)
