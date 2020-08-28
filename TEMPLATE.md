@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Fawaz</h1>
 <h3 align="center">I am a Developer Advocate @ IBM 👁🐝M and a Masters student @ UOW/UOWD 👨‍💻</h3>
 
-### My Interests 💁🏻
+### About Me 💁🏻
 
 - 🔭 I focus on **Data Science, Microservices & Blockchain**
 
