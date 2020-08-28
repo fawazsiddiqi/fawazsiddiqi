@@ -1,6 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Fawaz</h1>
 <h3 align="center">I am a Developer Advocate @ IBM 👁🐝M and a Masters student @ UOW/UOWD 👨‍💻</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fawazsiddiqi" alt="fawazsiddiqi" /> </p>
+
 ### About Me 💁🏻
 
 - 🔭 I focus on **Data Science, Microservices & Blockchain**
