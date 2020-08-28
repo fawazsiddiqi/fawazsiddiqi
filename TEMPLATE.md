@@ -1,5 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Fawaz</h1>
-<h3 align="center">I am a Developer Advocate @ IBM 👁🐝M and a Masters student @ UOW/UOWD 👨‍💻</h3>
+<h2 align="center">I am a Developer Advocate @ IBM 👁🐝M and a Masters student @ UOW/UOWD 👨‍💻</h2>
+
+## About me 💁🏻
 
 - 🔭 I focus on **Data Science, Microservices & Blockchain**
 
@@ -14,6 +16,8 @@
 - 📫 How to reach me **https://twitter.com/fawaz_siddiqi**
 
 - ⚡ Fun fact **I am known to be awake at the weirdest times 😂**
+
+## Skills and Technologies 👨‍💻
 
 ![](https://img.shields.io/badge/C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/C-informational?style=flat-square&logo=C&logoColor=white&color=A8B9CC)
@@ -42,11 +46,10 @@
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/CouchDB-informational?style=flat-square&logo&logoColor=white&color=1F305F)
 
-### My GitHub Statistics
+## My GitHub Statistics 📈
 ![](https://github-readme-stats.fawazsiddiqi.vercel.app/api/?username=fawazsiddiqi&layout=compact&card_width=250&hide_border=true&theme=graywhite&hide_title=true&include_all_commits=true)
 
-### Most used languages across my projects:
-
+## Languages you can find across my GitHub 👾
 {{ LANGUAGE_TEMPLATE_START:max=20 }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
