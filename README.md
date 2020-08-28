@@ -23,7 +23,7 @@
 <a href="https://github.com/fawazsiddiqi">  
   <img align="left" src="https://github-readme-stats.fawazsiddiqi.vercel.app/api/?username=fawazsiddiqi&layout=compact&card_width=250&hide_border=true" /
 </a>
-<p>
+
 Most used languages across my projects:
 
 ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B189.2%25)
@@ -35,4 +35,3 @@ Most used languages across my projects:
 ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B10.3%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.2%25)
 
-</p>
