@@ -21,7 +21,7 @@
 </p>
 
 <a href="https://github.com/fawazsiddiqi">  
-  <img align="left" src="https://github-readme-stats.fawazsiddiqi.vercel.app/api/?username=fawazsiddiqi&layout=compact&card_width=250&hide_border=true&theme=graywhite&hide_title=true" /
+  <img align="left" src="https://github-readme-stats.fawazsiddiqi.vercel.app/api/?username=fawazsiddiqi&layout=compact&card_width=250&hide_border=true&theme=graywhite&hide_title=true&include_all_commits=true" /
 </a>
 
 <a> Most used languages across my projects: 
