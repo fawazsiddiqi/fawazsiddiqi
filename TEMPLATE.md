@@ -55,6 +55,3 @@
 {{ LANGUAGE_TEMPLATE_START:max=20 }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
-
-### Blog Posts
-[![Fawaz Siddiqi Medium](https://github-readme-medium.vercel.app/?username=fawazsiddiqi)](https://medium.com/@fawazsiddiqi)
