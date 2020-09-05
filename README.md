@@ -60,6 +60,3 @@
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B10.5%25)
 ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%EF%B8%B10.2%25)
 ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B10.1%25)
-
-### Blog Posts
-[![Fawaz Siddiqi Medium](https://github-readme-medium.vercel.app/?username=fawazsiddiqi)](https://medium.com/@fawazsiddiqi)
