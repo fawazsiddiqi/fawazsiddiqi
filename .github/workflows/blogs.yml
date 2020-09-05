@@ -1,5 +1,5 @@
 
-name: Latest blog post workflow
+name: blogaddmedium
 on:
   schedule:
     # Runs every hour
