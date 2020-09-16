@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fawazsiddiqi](https://github.com/fawazsiddiqi)
+- 👨‍💻 All of my projects are available at **https://github.com/fawazsiddiqi**
 
-- 📝 I regulary write articles on [https://medium.com/@fawazsiddiqi](https://medium.com/@fawazsiddiqi)
+- 📝 I regulary write articles on **https://medium.com/@fawazsiddiqi**
 
 - 💬 Ask me about **all your development based questions, I AM FULL STACK! 😁**
 
