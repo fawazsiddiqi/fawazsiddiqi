@@ -1,5 +1,7 @@
 <!---<h1 align="center">Hey there 👋, I'm Fawaz</h1>--->
-<img align="center" src="images/signbot.gif" alt="gif">
+<p align="center">
+  <img src="https://github.com/fawazsiddiqi/fawazsiddiqi/blob/master/images/signbot.gif?raw=true">
+</p>
 <h3 align="center">I am a Developer Advocate @ IBM 👁🐝M and a Masters student @ UOW/UOWD 👨‍💻</h3>
 
 ![](https://komarev.com/ghpvc/?username=fawazsiddiqi&style=flat-square&color=E23237)
