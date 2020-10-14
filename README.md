@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/fawazsiddiqi**
 
-- 📝 I regulary write articles on **https://medium.com/@fawazsiddiqi**
+- 📝 I regulary write articles on **https://fawazsiddiqi.medium.com**
 
 - 💬 Ask me about **all your development based questions, I AM FULL STACK! 😁**
 
