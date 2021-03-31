@@ -80,7 +80,7 @@
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B10.1%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.1%25)
 
-### What am I listening to
+### What am I currently listening to
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ymqbg4uym5se83i8v4hnnwrfp&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ymqbg4uym5se83i8v4hnnwrfp&redirect=true)
 
