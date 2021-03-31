@@ -80,6 +80,10 @@
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B10.1%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.1%25)
 
+### What am I listening to
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ymqbg4uym5se83i8v4hnnwrfp&cover_image=true&theme=novatorem" /></div> 
+
 ### Connect with me 
 
 <div align="center">
@@ -98,8 +102,4 @@
 <a href="https://medium.com/https://fawazsiddiqi.medium.com" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-</div>
-
-### What am I listening
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ymqbg4uym5se83i8v4hnnwrfp&cover_image=true&theme=default" /></div> 
+</div> 
