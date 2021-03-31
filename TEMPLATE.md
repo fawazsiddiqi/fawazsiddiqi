@@ -42,7 +42,7 @@
 ![](https://img.shields.io/badge/Kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=white&color=326CE5)
 ![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Xamarin-informational?style=flat-square&logo=xamarin&logoColor=white&color=3498DB)
-![](https://img.shields.io/badge/Hyperledger_Fabric-informational?style=flat-square&logo=hyper-ledger-fabric&logoColor=white&color=007396)
+![](https://img.shields.io/badge/Hyperledger_Fabric-informational?style=flat-square&logo=Hyperledger&logoColor=white&color=2F3134)
 ![](https://img.shields.io/badge/IBM_Cloud-informational?style=flat-square&logo=IBM&logoColor=white&color=054ADA)
 ![](https://img.shields.io/badge/Arduino-informational?style=flat-square&logo=arduino&logoColor=white&color=00979D)
 ![](https://img.shields.io/badge/TensorFlow-informational?style=flat-square&logo=tensorflow&logoColor=white&color=FF6F00)
