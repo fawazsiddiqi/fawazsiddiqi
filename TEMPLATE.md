@@ -76,7 +76,7 @@
 
 ### What am I listening to
 
-<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ymqbg4uym5se83i8v4hnnwrfp&cover_image=true&theme=novatorem" /></div> 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ymqbg4uym5se83i8v4hnnwrfp&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ymqbg4uym5se83i8v4hnnwrfp&redirect=true)
 
 ### Connect with me 
 
