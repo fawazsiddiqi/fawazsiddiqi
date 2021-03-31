@@ -51,7 +51,7 @@
 ![](https://img.shields.io/badge/MySQL-informational?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=PostgreSQL&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=47A248)
-![](https://img.shields.io/badge/CouchDB-informational?style=flat-square&logo&logoColor=white&color=1F305F)
+![](https://img.shields.io/badge/CouchDB-informational?style=flat-square&logo=couchbase&logoColor=white&color=EA2328)
 ![](https://img.shields.io/badge/pytorch-informational?style=flat-square&logo=pytorch&logoColor=white&color=EE4C2C)
 ![](https://img.shields.io/badge/Linux-informational?style=flat-square&logo=Linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/IBM_Watson-informational?style=flat-square&logo=IBM-Watson&logoColor=white&color=BE95FF)
