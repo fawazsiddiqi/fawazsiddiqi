@@ -68,7 +68,7 @@
 
 ### My GitHub Statistics 📈
 
-![](https://github-readme-stats.fawazsiddiqi.vercel.app/api/?username=fawazsiddiqi&layout=compact&card_width=250&hide_border=true&theme=dark&hide_title=true&include_all_commits=true)
+![](https://github-readme-stats.fawazsiddiqi.vercel.app/api/?username=fawazsiddiqi&layout=compact&card_width=250&hide_border=true&theme=vision-friendly-dark&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&hide_border=true)
 
 ### Languages you can find across my GitHub 👾
 
