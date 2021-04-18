@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/fawazsiddiqi/fawazsiddiqi/blob/master/images/signbot.gif?raw=true">
 </p>
-<h3 align="center">I am a Developer Advocate @ IBM 👁🐝M & a Masters student @ UOW 👨‍💻</h3>
+<h3 align="center">I am a Developer Advocate @ IBM 👁🐝M and a Masters student @ UOW 👨‍💻</h3>
 
 ![](https://komarev.com/ghpvc/?username=fawazsiddiqi&style=flat-square&color=E23237)
 
