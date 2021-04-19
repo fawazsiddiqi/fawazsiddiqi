@@ -65,6 +65,7 @@
 ![](https://img.shields.io/badge/Android_Studio-informational?style=flat-square&logo=Android-Studio&logoColor=white&color=3DDC84)
 ![](https://img.shields.io/badge/Apache_Kafka-informational?style=flat-square&logo=Apache-Kafka&logoColor=white&color=231F20)
 ![](https://img.shields.io/badge/OWASP-informational?style=flat-square&logo=OWASP&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Postman-informational?style=flat-square&logo=Postman&logoColor=white&color=FF6C37)
 
 ### My GitHub Statistics 📈
 
