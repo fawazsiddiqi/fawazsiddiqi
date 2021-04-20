@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=fawazsiddiqi&style=flat-square&color=E23237)
 
-### About Me 💁🏻
+## About Me 💁🏻
 
 - 🔭 I focus on **Data Science, Microservices & Blockchain**
 
@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I am known to be awake at the weirdest times 😂**
 
-### Skills and Technologies 👨‍💻
+## Skills and Technologies 👨‍💻
 
 ![](https://img.shields.io/badge/C++-informational?style=flat-square&logo=c%2B%2B&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/C-informational?style=flat-square&logo=C&logoColor=white&color=A8B9CC)
@@ -67,11 +67,11 @@
 ![](https://img.shields.io/badge/OWASP-informational?style=flat-square&logo=OWASP&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Postman-informational?style=flat-square&logo=Postman&logoColor=white&color=FF6C37)
 
-### My GitHub Statistics 📈
+## My GitHub Statistics 📈
 
 ![](https://github-readme-stats.fawazsiddiqi.vercel.app/api/?username=fawazsiddiqi&layout=compact&card_width=250&hide_border=true&theme=vision-friendly-dark&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&hide_border=true)
 
-### Languages you can find across my GitHub 👾
+## Languages you can find across my GitHub 👾
 
 ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B194.6%25)
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B11.3%25)
@@ -83,11 +83,11 @@
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B10.1%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.1%25)
 
-### What am I currently listening to
+## What am I currently listening to
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ymqbg4uym5se83i8v4hnnwrfp&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=ymqbg4uym5se83i8v4hnnwrfp&redirect=true)
 
-### Connect with me 
+## Connect with me 
 
 <div align="center">
 <a href="https://github.com/fawazsiddiqi" target="_blank">
