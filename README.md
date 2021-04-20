@@ -18,8 +18,6 @@
 
 - 💬 Ask me about **all your development based questions, I AM FULL STACK! 😁**
 
-- 📫 How to reach me **https://twitter.com/fawaz_siddiqi**
-
 - ⚡ Fun fact **I am known to be awake at the weirdest times 😂**
 
 ## Skills and Technologies 👨‍💻
