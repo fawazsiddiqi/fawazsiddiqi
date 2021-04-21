@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">I am a Developer Advocate @ IBM 👁🐝M & a Masters student @ UOW 👨‍💻</h3>
 
-![](https://komarev.com/ghpvc/?username=fawazsiddiqi&style=flat-square&color=E23237)
+![](https://komarev.com/ghpvc/?username=fawazsiddiqi&style=flat-square)
 
 ## About Me 💁🏻
 
