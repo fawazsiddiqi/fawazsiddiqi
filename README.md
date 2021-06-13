@@ -61,6 +61,7 @@
 ![](https://img.shields.io/badge/Podman-informational?style=flat-square&logo=Podman&logoColor=white&color=892CA0)
 ![](https://img.shields.io/badge/Node_Red-informational?style=flat-square&logo=Node-Red&logoColor=white&color=8F0000)
 ![](https://img.shields.io/badge/WireGuard-informational?style=flat-square&logo=WireGuard&logoColor=white&color=88171A)
+![](https://img.shields.io/badge/OpenVPN-informational?style=flat-square&logo=OpenVPN&logoColor=white&color=EA7E20)
 ![](https://img.shields.io/badge/Ansible-informational?style=flat-square&logo=Ansible&logoColor=white&color=EE0000)
 ![](https://img.shields.io/badge/XAMPP-informational?style=flat-square&logo=XAMPP&logoColor=white&color=FB7A24)
 ![](https://img.shields.io/badge/Android_Studio-informational?style=flat-square&logo=Android-Studio&logoColor=white&color=3DDC84)
