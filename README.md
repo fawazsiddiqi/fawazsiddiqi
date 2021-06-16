@@ -77,6 +77,10 @@
 
 ![my_activity](https://activity-graph.herokuapp.com/graph?username=fawazsiddiqi&theme=xcode)
 
+## My GitHub Streak 🔥
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fawazsiddiqi&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
 ## Languages you can find across my GitHub 👾
 
 ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B194.6%25)
