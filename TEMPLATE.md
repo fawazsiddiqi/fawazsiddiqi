@@ -77,6 +77,10 @@
 
 ![my_activity](https://activity-graph.herokuapp.com/graph?username=fawazsiddiqi&theme=xcode)
 
+## My GitHub Streak 🔥
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fawazsiddiqi&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
 ## Languages you can find across my GitHub 👾
 
 {{ LANGUAGE_TEMPLATE_START:max=20 }}
