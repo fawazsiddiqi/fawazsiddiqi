@@ -73,6 +73,10 @@
 
 ![](https://github-readme-stats.fawazsiddiqi.vercel.app/api/?username=fawazsiddiqi&layout=compact&card_width=250&hide_border=true&theme=vision-friendly-dark&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&hide_border=true)
 
+## My GitHub Activity 🎢
+
+![my_activity](https://activity-graph.herokuapp.com/graph?username=fawazsiddiqi&theme=xcode)
+
 ## Languages you can find across my GitHub 👾
 
 {{ LANGUAGE_TEMPLATE_START:max=20 }}
