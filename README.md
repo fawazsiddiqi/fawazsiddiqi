@@ -73,6 +73,10 @@
 
 ![](https://github-readme-stats.fawazsiddiqi.vercel.app/api/?username=fawazsiddiqi&layout=compact&card_width=250&hide_border=true&theme=vision-friendly-dark&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&hide_border=true)
 
+## My GitHub Activity 🎢
+
+![my_activity](https://activity-graph.herokuapp.com/graph?username=fawazsiddiqi&theme=xcode)
+
 ## Languages you can find across my GitHub 👾
 
 ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B194.6%25)
