@@ -1,5 +1,9 @@
 <!---<h1 align="center">Hey there 👋, I'm Fawaz</h1>--->
 <p align="center">
+  <img src="https://github.com/fawazsiddiqi/fawazsiddiqi/blob/master/images/vaporized.png?raw=true">
+</p>
+
+<p align="center">
   <img src="https://github.com/fawazsiddiqi/fawazsiddiqi/blob/master/images/signbot.gif?raw=true">
 </p>
 <h3 align="center">I am a Developer Advocate @ IBM 👁🐝Ⓜ️ & a Masters student @ UOW 👨‍💻</h3>
