@@ -6,8 +6,8 @@
 <p align="center">
   <img src="https://github.com/fawazsiddiqi/fawazsiddiqi/blob/master/images/signbot.gif?raw=true">
 </p>
-<h3 align="center">I am a Developer Advocate @ IBM 👁🐝Ⓜ️ & Masters student @ UOW 👨‍💻</h3>
-<h4 align="center"> Developer | Consultant | Strategist | IBM Trusted Advisor | Change Maker | Innovator | Open Source Contributor | Researcher | Digital Transformation | Data Science, Microservices & Blockchain</h4>
+<h3 align="center">I am a Cloud Platform Engineer @ IBM 👁🐝Ⓜ️ & a Masters graduate @ UOW 👨‍💻</h3>
+<h4 align="center"> Developer | Consultant | Strategist | IBM Trusted Advisor | Change Maker | Innovator | Open Source Contributor | Researcher | Digital Transformation | Microservices, Data Science & Blockchain</h4>
 
 ![](https://komarev.com/ghpvc/?username=fawazsiddiqi&style=flat-square)
 
