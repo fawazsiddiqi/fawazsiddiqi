@@ -1,6 +1,6 @@
 <!---<h1 align="center">Hey there 👋, I'm Fawaz</h1>--->
 <p align="center">
-  <img src="https://github.com/fawazsiddiqi/fawazsiddiqi/blob/master/images/vaporized-2.png?raw=true">
+  <img src="https://github.com/fawazsiddiqi/fawazsiddiqi/blob/master/images/retro-neon.gif?raw=true">
 </p>
 
 <p align="center">
