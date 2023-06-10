@@ -13,7 +13,7 @@
 
 ## About Me 💁🏻
 
-- 🔭 I focus on **Data Science, Microservices & Blockchain**
+- 🔭 I focus on **Hybrid Cloud, Microservices, Data Science & Blockchain**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
