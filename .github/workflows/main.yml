@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '0 0 */3 * *' # every 3 days
+    - cron: '0 0 */10 * *' # every 10 days
   push:
     branches:
       - master
