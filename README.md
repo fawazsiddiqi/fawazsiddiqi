@@ -79,7 +79,7 @@
 
 ## My GitHub Streak 🔥
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fawazsiddiqi&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-1edxrchyb-fawaz-siddiqis-projects.vercel.app?user=fawazsiddiqi&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## Languages you can find across my GitHub 👾
 
