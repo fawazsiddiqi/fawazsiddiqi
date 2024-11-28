@@ -79,7 +79,7 @@
 
 ## My GitHub Streak 🔥
 
-[![GitHub Streak](https://github-readme-streak-stats-five-rose.vercel.app?user=fawazsiddiqi&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.fawazsiddiqi.dev?user=fawazsiddiqi&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## Languages you can find across my GitHub 👾
 
