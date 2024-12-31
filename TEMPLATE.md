@@ -109,7 +109,4 @@
 <a href="https://fawazsiddiqi.medium.com" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.polywork.com/fawazsiddiqi" target="_blank">
-<img src=https://img.shields.io/badge/polywork-543DE0.svg?&style=for-the-badge&logo=polywork&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
 </div> 
