@@ -73,14 +73,6 @@
 ![](https://img.shields.io/badge/OWASP-informational?style=flat-square&logo=OWASP&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Postman-informational?style=flat-square&logo=Postman&logoColor=white&color=FF6C37)
 
-## My GitHub Statistics 📈
-
-![](https://github-readme-stats.vercel.app/api/?username=fawazsiddiqi&layout=compact&card_width=250&hide_border=true&theme=vision-friendly-dark&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&hide_border=true)
-
-## My GitHub Streak 🔥
-
-[![GitHub Streak](https://github-readme-stats-streak.fawazsiddiqi.dev?user=fawazsiddiqi&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 ## Languages you can find across my GitHub 👾
 
 {{ LANGUAGE_TEMPLATE_START:max=20 }}
