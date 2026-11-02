@@ -40,7 +40,7 @@
 
 - 💬 Ask me about **all your development based questions, I AM FULL STACK! 😁**
 
-- 📫 How to reach me **[X (@Fawaz_siddiqi)](https://x.com/Fawaz_siddiqi)**
+- 📫 How to reach me **[X (@fawaz_siddiqi)](https://x.com/fawaz_siddiqi)**
 
 - ⚡ Fun fact **I am known to be awake at the weirdest times 😂**
 
